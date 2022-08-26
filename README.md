@@ -11,4 +11,4 @@ Test for Visual Nuts
 `yarn test``
 
 # Coverage
-To check the coverage test first you need to run the `yarn test` command and after you can access `[rootFolder]/coverage/lcov-report/index.html` and open it on your browser. 
+To check the coverage test first you need to run the `yarn test:coverage` command and after you can access `[rootFolder]/coverage/lcov-report/index.html` and open it on your browser. 
